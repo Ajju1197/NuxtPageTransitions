@@ -1,2 +1,1 @@
-# NuxtPageTransitions
-Created with CodeSandbox
+[Features Book - Transitions](https://nuxtjs.org/docs/2.x/features/transitions)
