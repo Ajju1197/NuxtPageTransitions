@@ -1,0 +1,2 @@
+# NuxtPageTransitions
+Created with CodeSandbox
